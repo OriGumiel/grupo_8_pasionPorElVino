@@ -7,6 +7,7 @@ Pasión por el Vino nace en julio de 2021 como una página por y para amantes de
 El objetivo era claro: democratizar la experiencia de disfrutar del vino. Teníamos claro que el vino es más que una bebida, y la experiencia de abrir una nueva botella, servirla en copa, disfrutar sus aromas y degustar su sabor podía (y debía) ser compartida con todos y entre todos.
 Es por esto, que nuestro objetivo, se convirtió en nuestro proyecto, teniendo siempre presente esta idea: el vino es universal, no tiene fronteras o idiomas. 
 El grupo detrás de esta idea está conformado por:
+
 Diego Guevara: 48 años, mendocino viviendo en Buenos Aires desde 2008. Contador Público trabajando en relación de dependencia desde 1998, primer contacto con la programación en cualquier formato.
 
 Oriana Gumiel: Estudiante de Geología, aprendiz de programación y el vino. Mi lema diario es: "La vida es aprendizaje, hay que disfrutarla y aprender."
